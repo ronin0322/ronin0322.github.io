@@ -1,0 +1,9 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "maupassant-hugo"]
+	path = maupassant-hugo
+	url = git@github.com:ronin0322/maupassant-hugo.git
+[submodule "ronin0322.github.io"]
+	path = ronin0322.github.io
+	url = git@github.com:ronin0322/ronin0322.github.io.git
